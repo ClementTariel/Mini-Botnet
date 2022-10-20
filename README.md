@@ -6,6 +6,8 @@ A game where you manage a network of hacked servers to mine some bitcoin.
 
 You can play the game directly in your browser at : https://megabattleclems.itch.io/mini-botnet
 
+You can also play it at : https://clementtariel.github.io/Mini-Botnet
+
 ## Disclaimer
 
 This game was made in a short time frame (first I made a prototype during a game jam, then I reworked a few thing and added some better visuals).
